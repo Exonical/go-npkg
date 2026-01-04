@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/Exonical/go-npkg/types"
+	"github.com/Exonical/go-npkg/pkg/types"
 )
 
 const (

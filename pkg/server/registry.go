@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Exonical/go-npkg/types"
+	"github.com/Exonical/go-npkg/pkg/types"
 )
 
 // RegistryConfig holds registry configuration

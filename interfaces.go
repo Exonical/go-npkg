@@ -4,7 +4,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/Exonical/go-npkg/uplink"
+	"github.com/Exonical/go-npkg/pkg/uplink"
 )
 
 // PackageStore defines the interface for package metadata storage.

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/Exonical/go-npkg/types"
+	"github.com/Exonical/go-npkg/pkg/types"
 )
 
 // Authenticator handles authentication for registry requests

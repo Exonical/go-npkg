@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Exonical/go-npkg/types"
+	"github.com/Exonical/go-npkg/pkg/types"
 )
 
 // ProxyTransport wraps http.Transport with proxy support

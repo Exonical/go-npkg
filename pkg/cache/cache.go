@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Exonical/go-npkg/types"
+	"github.com/Exonical/go-npkg/pkg/types"
 )
 
 // Cache provides package caching functionality

@@ -42,11 +42,11 @@
 package npmregistry
 
 import (
-	"github.com/Exonical/go-npkg/client"
-	"github.com/Exonical/go-npkg/semver"
-	"github.com/Exonical/go-npkg/server"
-	"github.com/Exonical/go-npkg/storage"
-	"github.com/Exonical/go-npkg/uplink"
+	"github.com/Exonical/go-npkg/pkg/client"
+	"github.com/Exonical/go-npkg/pkg/semver"
+	"github.com/Exonical/go-npkg/pkg/server"
+	"github.com/Exonical/go-npkg/pkg/storage"
+	"github.com/Exonical/go-npkg/pkg/uplink"
 )
 
 // Re-export core types for convenience

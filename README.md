@@ -2,14 +2,6 @@
 
 A Go library for building npm-compatible package registries. Designed to be embedded in other applications.
 
-## Features
-
-- **Embeddable library**: Import and use in your Go applications
-- **npm/yarn/pnpm compatible**: Full npm registry protocol support
-- **Hybrid registry**: Serve private packages + proxy to upstream (like Verdaccio)
-- **Pluggable storage**: Implement custom backends (filesystem, S3, database)
-- **Semantic versioning**: Full npm-compatible semver range support
-
 ## Installation
 
 ```bash

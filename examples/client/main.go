@@ -17,7 +17,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/Exonical/go-npkg/client"
+	"github.com/Exonical/go-npkg/pkg/client"
 )
 
 func main() {

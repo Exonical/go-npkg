@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/Exonical/go-npkg/types"
+	"github.com/Exonical/go-npkg/pkg/types"
 )
 
 // Resolver handles dependency resolution

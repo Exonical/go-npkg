@@ -19,8 +19,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/Exonical/go-npkg/server"
-	"github.com/Exonical/go-npkg/uplink"
+	"github.com/Exonical/go-npkg/pkg/server"
+	"github.com/Exonical/go-npkg/pkg/uplink"
 )
 
 func main() {
